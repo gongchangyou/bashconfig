@@ -108,3 +108,4 @@ source ~/.git-prompt.sh
 export WORKON_HOME=~/.pyvirtualenvs
 export VIRTUALENVWRAPPER_PYTHON=/opt/local/bin/python2.7
 source /opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin/virtualenvwrapper.sh
+screen -r
